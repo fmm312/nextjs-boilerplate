@@ -42,8 +42,8 @@ To keep better organization of releases we follow the [Semantic Versioning 2.0.0
 
 ## Contributing
 
-Want to contribute? [Follow these recommendations](https://github.com/fmm312/reactjs-boilerplate/CONTRIBUTING.md).
+Want to contribute? [Follow these recommendations](https://github.com/fmm312/reactjs-boilerplate/blob/main/CONTRIBUTING.md).
 
 ## History
 
-See [Releases](https://github.com/fmm312/reactjs-boilerplate/CHANGELOG.md) for detailed changelog.
+See [Releases](https://github.com/fmm312/reactjs-boilerplate/blob/main/CHANGELOG.MD) for detailed changelog.
