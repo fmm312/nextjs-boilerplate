@@ -1,6 +1,6 @@
-# React PRPL Boilerplate
+# ReactJS Boilerplate
 
-> A simple boilerplate for learn PRPL pattern with React.
+> A simple React project boilerplate.
 
 ## Features
 
