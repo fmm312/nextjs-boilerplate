@@ -17,7 +17,7 @@
 Clone this repository and install its dependencies:
 
 ```sh
-$ git clone https://github.com/afonsopacifer/react-prpl-boilerplate.git
+$ git clone https://github.com/fmm312/reactjs-boilerplate.git
 $ cd react-prpl-boilerplate
 $ yarn
 ```
@@ -42,8 +42,8 @@ To keep better organization of releases we follow the [Semantic Versioning 2.0.0
 
 ## Contributing
 
-Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/react-prpl-boilerplate/blob/master/CONTRIBUTING.md).
+Want to contribute? [Follow these recommendations](https://github.com/fmm312/reactjs-boilerplate/CONTRIBUTING.md).
 
 ## History
 
-See [Releases](https://github.com/afonsopacifer/react-prpl-boilerplate/releases) for detailed changelog.
+See [Releases](https://github.com/fmm312/reactjs-boilerplate/CHANGELOG.md) for detailed changelog.
