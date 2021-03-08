@@ -18,7 +18,7 @@ Clone this repository and install its dependencies:
 
 ```sh
 $ git clone https://github.com/fmm312/reactjs-boilerplate.git
-$ cd react-prpl-boilerplate
+$ cd reactjs-boilerplate
 $ yarn
 ```
 
@@ -27,7 +27,7 @@ $ yarn
 Builds and start the App (with local server and livereload):
 
 ```sh
-$ yarn start
+$ yarn dev
 ```
 
 Builds for production:
