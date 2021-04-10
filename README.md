@@ -2,7 +2,7 @@
   
 <div align="center">
 
-A simple project boilerplate with [`Next.js`](https://nextjs.org/)
+A project boilerplate with [`Next.js`](https://nextjs.org/)
 
 [![Generic badge](https://img.shields.io/badge/License-MIT-red.svg)]()
 [![Generic badge](https://img.shields.io/badge/Version-1.0.0-red.svg)]()
