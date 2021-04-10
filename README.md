@@ -1,28 +1,33 @@
-# ReactJS Boilerplate
+<h1 align="center">Next.js Boilerplate</h1>
+  
+<div align="center">
 
-> A simple React project boilerplate.
+A simple project boilerplate with [`Next.js`](https://nextjs.org/)
+
+[![Generic badge](https://img.shields.io/badge/License-MIT-red.svg)]()
+[![Generic badge](https://img.shields.io/badge/Version-1.0.0-red.svg)]()
+
+</div>
 
 ## Features
 
-- Custom **PRPL pattern**.
-  - **Push** critical dependencies.
-  - **Render** a minimal bundle.
-  - **Pre-push** with Service Workers.
-  - **Lazy loading** all code splitted bundles.
+- Project **features**.
+  - **Lorem ipsum** dolor sit amet.
+  - **Lorem ipsum** dolor sit amet.
+  - **Lorem ipsum** dolor sit amet.
+  - **Lorem ipsum** dolor sit amet.
 
-## Development
-
-### Getting started
+## Getting started
 
 Clone this repository and install its dependencies:
 
 ```sh
-$ git clone https://github.com/fmm312/reactjs-boilerplate.git
-$ cd reactjs-boilerplate
+$ git clone https://github.com/fmm312/nextjs-boilerplate
+$ cd nextjs-boilerplate
 $ yarn
 ```
 
-### Build / Start App
+## Build / Start App
 
 Builds and start the App (with local server and livereload):
 
@@ -47,3 +52,6 @@ Want to contribute? [Follow these recommendations](https://github.com/fmm312/rea
 ## History
 
 See [Releases](https://github.com/fmm312/reactjs-boilerplate/blob/main/CHANGELOG.MD) for detailed changelog.
+
+## License
+[MIT License]()
